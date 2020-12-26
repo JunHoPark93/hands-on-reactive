@@ -1,0 +1,3 @@
+rootProject.name = 'hands-on-reactive'
+
+include 'rx-java-compare'
